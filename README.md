@@ -1,2 +1,2 @@
-# jrexliao.github.io
-This is a repo that stores files for my homepage.
+# Repo available
+1. https://jrexliao.github.io/Cluster-Generator
